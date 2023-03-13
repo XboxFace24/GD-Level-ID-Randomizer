@@ -11,4 +11,4 @@ while repeat:
 	if confirm == "!quit":
 		break
 	else:
-		print(random.randint(128,89192660))
+		print(random.randint(128,89284946))
